@@ -1,0 +1,17 @@
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\bin\Debug\netcoreapp2.2\FSharpExamples.deps.json
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\bin\Debug\netcoreapp2.2\FSharpExamples.runtimeconfig.json
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\bin\Debug\netcoreapp2.2\FSharpExamples.runtimeconfig.dev.json
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\bin\Debug\netcoreapp2.2\FSharpExamples.dll
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\bin\Debug\netcoreapp2.2\FSharpExamples.pdb
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.csprojAssemblyReference.cache
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.csproj.CoreCompileInputs.cache
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.RazorAssemblyInfo.cache
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.RazorAssemblyInfo.cs
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.AssemblyInfoInputs.cache
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.AssemblyInfo.cs
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.RazorTargetAssemblyInfo.cache
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.csproj.CopyComplete
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.dll
+C:\Users\grygr\source\FSharpExamples\FSharpExamples\obj\Debug\netcoreapp2.2\FSharpExamples.pdb
